@@ -1,0 +1,5 @@
+"Resident_ID";"Resident_LName";"Resident_FName";"Resident_MName";"Resident_Photo";"Resident_Offense";"Resident_Sex_Offender";"Resident_Risk_Level";"Resident_Eye_Color";"Resident_Hair_Color";"Resident_Sex";"Resident_Race";"Resident_Height";"Resident_Weight";"Resident_DOB";"Resident_Birthplace";"Resident_Username";"Resident_Password"
+1;"Moriarty";"James";"Professor";"";"Robbery";0;1;"Blue";"Brown";"M";"Caucassian";72;160;"1900-10-10";"London, England";"";""
+2;"Davis";"Jonathan";"Paul";"";"Robbery";2;1;"Green";"Blonde";"M";"Caucassian";64;200;"1983-07-06";"Brooklyn Park, MN";"";""
+3;"Hatfield";"Edwin";"Thomas";"";"Assault";0;2;"Brown";"Black";"M";"Hispanic";66;180;"1993-06-08";"Humbolt,Iowa";"";""
+4;"Koch";"Joseph";"York";"";"Assault";0;3;"Brown";"Brown";"M";"Black";76;263;"1977-11-11";"St Paul, MN";"";""
