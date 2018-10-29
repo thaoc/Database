@@ -51,5 +51,19 @@ NOTE: more details to come
 - insert_caseworker
 - insert_daily_planner
 - insert_facility
-- insert_resident `_note: this is being updated and not fully functional_`
+- insert_resident
 - insert_staff
+
+
+### To Do ###
+
+- insert_staff
+- insert_resident
+- update_resident
+- delete_resident
+- insert_daily_planner
+- insert_caseworker
+- insert_call_in
+- insert_assignment
+- insert_facility
+
